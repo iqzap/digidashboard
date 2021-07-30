@@ -200,7 +200,7 @@
                                     </div>
                                     <h4 class="input-h4 status-h4">Status</h4>
                                     <div class="input-line tempat_lahir"><label for="password-2" class="field-label">Status<span class="text-span">*</span></label>
-                                        <div class="input_w_icon dropdown"><select id="statususer" name="istatususer" required="" data-name="istatususer" class="dropdown-field w-select">
+                                        <div class="input_w_icon dropdown"><select id="statususer" name="istatususer" required="" data-name="istatususer" class="dropdown-field w-select" onchange="checkuser()">
                         <option value="Siswa">Siswa</option>
                         <option value="Mahasiswa">Mahasiswa</option>
                         <option value="Gamer">Gamer</option>
@@ -324,7 +324,6 @@
     <script>
         function checkuser() {
             d = document.getElementById("statususer").value;
-            alert(d);
             if (d == "Siswa") {
                 document.getElementById("user_siswa").style.display = "block";
                 document.getElementById("user_mahasiswa").style.display = "none";
