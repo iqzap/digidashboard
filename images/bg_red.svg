@@ -1,0 +1,37 @@
+<svg width="3200" height="1619" viewBox="0 0 3200 1619" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="0.5" width="3200" height="1618" fill="url(#paint0_linear)"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="3200" height="1619">
+<rect y="0.5" width="3200" height="1618" fill="url(#paint1_linear)"/>
+</mask>
+<g mask="url(#mask0)">
+<g filter="url(#filter0_d)">
+<path d="M973.299 1618.5C958.247 1557.13 962.706 1491.77 1003.5 1441.5C1053.98 1379.29 1106.77 1315.62 1159.2 1252.37C1372.68 994.848 1580.26 744.455 1602 629.5C1663.15 306.229 1455.03 138.613 1242.31 0.5H3200V1618.5H973.299Z" fill="url(#paint2_linear)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="665.373" y="-245.5" width="2734.63" height="2118" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="-50" dy="4"/>
+<feGaussianBlur stdDeviation="125"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="2920" y1="1260.5" x2="-536" y2="-338" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C6001C"/>
+<stop offset="0.348266" stop-color="#FE0024"/>
+<stop offset="1" stop-color="#F77A06"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="2920" y1="1260.5" x2="-536" y2="-338" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C6001C"/>
+<stop offset="0.348266" stop-color="#FE0024"/>
+<stop offset="1" stop-color="#F77A06"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="2920" y1="1260.5" x2="-536" y2="-338" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C6001C"/>
+<stop offset="0.348266" stop-color="#FE0024"/>
+<stop offset="1" stop-color="#F77A06"/>
+</linearGradient>
+</defs>
+</svg>
